@@ -1,4 +1,4 @@
-"id","username","password"
-1,"mahesta","asdasd"
-2,"kumelele","123sdg21"
-3,"armstrong","3245da"
+id,username,password,hash
+1,mahesta,asdasd,$2b$10$Pw7X3Qt/x2ZbiJYllP01ZOsxX5J56bq5VA9MwWS85Bj53yIsRZGyW
+2,kumelele,123sdg21,$2b$10$XArowba17fxNWcwIjwlLL.cyXnhOSSy9MDcRknCBa8QY7X9vBxGli
+3,armstrong,3245da,$2b$10$NG7vXE3KCZn06weWTgiFteZssXUAGIpur4WA5FimuVzQ4DXy5pVZa
