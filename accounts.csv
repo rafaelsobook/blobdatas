@@ -1,4 +1,5 @@
 id,username,password,hash
-1,mahesta,asdasd,$2b$10$BIdaabh7LAgy0SUbQzkmcOd54C5ksTjDeKGhVtnORbqLFnHOKBwhy
-2,kumelele,123sdg21,$2b$10$PFRzliNK6qDZjZhmeflQ5ud5Udb9xoBzYchqDr9/LDdisAzXfKZam
-3,armstrong,3245da,$2b$10$fbaUz/iGjphSN0jsp5zEB.9r1z7FGsDDjZ9JgL0XR3qns4OR3Z7je
+1,mahesta,asdasd,$2b$10$a9wJ8NA8k6.ZtypmYVwnDOOWfBE6n.X0R7jd6ZDPCizkc83wn3KSG
+2,kumelele,123sdg21,$2b$10$9N78SqHNDQZZt1ggTU.vrOHICFypjWJo0aRzjP8ra.JC9yElf.8Qm
+3,armstrong,3245da,$2b$10$VLja7UuLUWwR3SlcF8rRRuPyUCXs7Hx.EYQLoUBADNJwoRF6PYIzK
+4,steve,asdasd,$2b$10$OhGSCAPRK/fvz8k.KrK3keVSnwenATgjX1xiJVzfsyu6IEbBX0C4m
