@@ -1,6 +1,5 @@
-id,username,password,hash
-1,mahesta,asdasd,$2b$10$aIW6XS3B0CGkQPHgyxajqONbSeDysNcZXMBB4rI1eqAMOpy0Tj.T.
-2,kumelele,123sdg21,$2b$10$8dAxe7DG36UWIJO0ayaiKeu2gnJlAMzPGLM3HVzbBy1t3f4..Y4de
-3,armstrong,3245da,$2b$10$NIZrtkYg2hGVeFC2Nm4hReGjSiLKycxI9ZQ264n9fUv1xX5RjK1V.
-4,steve,asdasd,$2b$10$eO5iICGHU5lVE53FHWG/GO1E1bj5TFjbyeMP0g3aaJz3n8HR5QIsm
-5,steve,asdasd,$2b$10$6AnNMIoyvweWStUP5XWIdumdCMhXgxT.SulvGVDhGBELJEmCLjpQu
+id,username,hash
+1,mahesta,$2b$10$aIW6XS3B0CGkQPHgyxajqONbSeDysNcZXMBB4rI1eqAMOpy0Tj.T.
+2,kumelele,$2b$10$8dAxe7DG36UWIJO0ayaiKeu2gnJlAMzPGLM3HVzbBy1t3f4..Y4de
+3,armstrong,$2b$10$NIZrtkYg2hGVeFC2Nm4hReGjSiLKycxI9ZQ264n9fUv1xX5RjK1V.
+4,steve,$2b$10$eO5iICGHU5lVE53FHWG/GO1E1bj5TFjbyeMP0g3aaJz3n8HR5QIsm
