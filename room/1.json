@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "box1",
+        "type": "primitive",
+        "shape": "ground",
+        "shapeOpt": {
+          "width": 10,
+          "height": 10
+        },
+        "materialInfo": {
+          "texture": "images/tex.png",
+          "uAndVScale": 12
+        },
+        "pos": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 10,
+          "y": 10,
+          "z": 10
+        },
+        "dir": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotQ": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "w": 0
+        },
+        "physicsInfo": {
+          "enabled": true,
+          "physicsType": "box",
+          "mass": 0
+        },
+        "modelName": "ground",
+        "isVisible": true,
+        "hasGizmos": false,
+        "parentMeshId": null
+    }, 
+    {
+        "_id": "box123", 
+        "type": "primitive",
+        "shape": "box",
+        "shapeOpt": { "size": 1 },
+        "materialInfo": false,
+        "pos": { "x": 1.5, "y": 5, "z": 8 },
+        "scale": { "x": 1, "y": 2, "z": 3 },
+        "dir": { "x": 0, "y": 0, "z": 0 },
+        "rotQ": { "x": 0, "y": 0, "z": 0, "w": 0 },
+        "physicsInfo": { "enabled": true, "physicsType": "box", "mass": 0 },
+        "modelName": "box",
+        "isVisible": true,
+        "hasGizmos": true,
+        "parentMeshId": null
+    },
+    {
+        "_id": "cylinder123",
+        "type": "primitive",
+        "shape": "cylinder",
+        "shapeOpt": { "diameter": 2 },
+        "materialInfo": false,
+        "pos": { "x": -2, "y": 0, "z": -1 },
+        "scale": { "x": 1, "y": 1, "z": 1 },
+        "dir": { "x": 0, "y": 0, "z": 0 },
+        "rotQ": { "x": 0, "y": 0, "z": 0, "w": 0 },
+        "physicsInfo": { "enabled": true, "physicsType": "cylinder", "mass": 0 },
+        "modelName": "cylinder",
+        "isVisible": true,
+        "hasGizmos": true,
+        "parentMeshId": null
+    },
+    {
+        "_id": "sword123",
+        "type": "remoteurl",
+        "url": "./models/sword.glb",
+        "materialInfo": false,
+        "pos": { "x": 2, "y": 1, "z": 4 },
+        "scale": { "x": 1, "y": 1, "z": 1 },
+        "dir": { "x": 0, "y": 0, "z": 0 },
+        "rotQ": { "x": 0, "y": 0, "z": 0, "w": 0 },
+        "physicsInfo": { "enabled": true, "physicsType": "mesh", "mass": 0 },
+        "modelName": "sword",
+        "isVisible": true,
+        "hasGizmos": true,
+        "parentMeshId": null
+    },
+    {
+        "_id": "cave123",
+        "type": "remoteurl",
+        "url": "./models/cave.glb",
+        "materialInfo": false,
+        "pos": { "x": 0, "y": 0, "z": -5 },
+        "scale": { "x": 1, "y": 1, "z": 1 },
+        "dir": { "x": 0, "y": 0, "z": 0 },
+        "rotQ": { "x": 0, "y": 0.7071, "z": 0, "w": 0.7071 },
+        "physicsInfo": { "enabled": true, "physicsType": "mesh", "mass": 0 },
+        "modelName": "cave",
+        "isVisible": true,
+        "hasGizmos": true,
+        "parentMeshId": null
+    },
+    {
+        "_id": "stair123",
+        "type": "remoteurl",
+        "url": "./models/stair.glb",
+        "materialInfo": false,
+        "pos": { "x": 0, "y": 0, "z": 5 },
+        "scale": { "x": 1, "y": 1, "z": 1 },
+        "dir": { "x": 0, "y": 0, "z": 0 },
+        "rotQ": { "x": 0, "y": 1, "z": 0, "w": 6.1232e-17 },
+        "physicsInfo": { "enabled": true, "physicsType": "mesh", "mass": 0 },
+        "modelName": "stair",
+        "isVisible": true,
+        "hasGizmos": true,
+        "parentMeshId": null
+    }
+]
