@@ -127,7 +127,7 @@
     "materialInfo": false,
     "pos": {
       "x": 5.736204624176025,
-      "y": 2.4907467365264893,
+      "y": 2.4968416690826416,
       "z": 4
     },
     "scale": {
@@ -262,5 +262,29 @@
       "y": 0,
       "z": 0
     }
+  },
+  {
+    "_id": "2f92d303-6312-4292-a465-32095d5747c4",
+    "type": "equipment",
+    "url": "./models/gun.glb",
+    "materialInfo": false,
+    "pos": {
+      "x": -0.02,
+      "y": -0.03,
+      "z": -0.08
+    },
+    "scale": {
+      "x": 0.11,
+      "y": 0.11,
+      "z": 0.11
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isVisible": false,
+    "parentMeshId": "a8c21c74-e6e9-4bfb-a22e-6dcc71869caa",
+    "modelName": "gun"
   }
 ]
