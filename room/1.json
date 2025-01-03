@@ -51,8 +51,8 @@
     },
     "materialInfo": false,
     "pos": {
-      "x": 4.555198669433594,
-      "y": 3.262561082839966,
+      "x": 4.5551981925964355,
+      "y": 3.262558937072754,
       "z": 0.4903896749019623
     },
     "scale": {
@@ -79,7 +79,12 @@
     "modelName": "box",
     "isVisible": true,
     "hasGizmos": true,
-    "parentMeshId": null
+    "parentMeshId": null,
+    "rotq": {
+      "x": 0,
+      "y": 0,
+      "z": 0.6946724700922973
+    }
   },
   {
     "_id": "cylinder123",
