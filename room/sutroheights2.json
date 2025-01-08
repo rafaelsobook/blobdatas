@@ -1,0 +1,679 @@
+[
+  {
+    "_id": "box1",
+    "type": "primitive",
+    "shape": "ground",
+    "shapeOpt": {
+      "width": 10,
+      "height": 10
+    },
+    "materialInfo": {
+      "texture": "images/tex.png",
+      "uAndVScale": 12
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 10,
+      "y": 10,
+      "z": 10
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "box",
+      "mass": 0
+    },
+    "modelName": "ground",
+    "isVisible": false,
+    "hasGizmos": false,
+    "parentMeshId": null
+  },
+  {
+    "_id": "box123",
+    "type": "primitive",
+    "shape": "box",
+    "shapeOpt": {
+      "size": 1
+    },
+    "materialInfo": false,
+    "pos": {
+      "x": 1.5,
+      "y": 5,
+      "z": 8
+    },
+    "scale": {
+      "x": 1,
+      "y": 2,
+      "z": 3
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "box",
+      "mass": 0
+    },
+    "modelName": "box",
+    "isVisible": false,
+    "hasGizmos": true,
+    "parentMeshId": null
+  },
+  {
+    "_id": "54546956-4334-489a-82f4-b1a13568fdfe",
+    "modelName": "54546956-4334-489a-82f4-b1a13568fdfe",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/01. night (substitute).glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "pos": {
+      "x": 2.238466262817383,
+      "y": 1.551486849784851,
+      "z": -25.659326553344727
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "5d78fee7-e087-4691-a3d1-0e23f125f90d",
+    "modelName": "5d78fee7-e087-4691-a3d1-0e23f125f90d",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/02. hunter (substitute).glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "pos": {
+      "x": -20.978893280029297,
+      "y": 1.1907072067260742,
+      "z": -6
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "dbdee3ef-8bb9-47e3-8cdb-eaea1a7aa10d",
+    "modelName": "dbdee3ef-8bb9-47e3-8cdb-eaea1a7aa10d",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/03. 2024-10-31 - Hébé, Antonio Canova, musée de l'Hermitage, Amsterdam, 2018 - tripo_pbr_model v2.0-20240919.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "pos": {
+      "x": -2.978893280029297,
+      "y": 1.1907072067260742,
+      "z": 4.000000476837158
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "90d03a45-af1d-4d6a-b980-2cc5d9eea585",
+    "modelName": "90d03a45-af1d-4d6a-b980-2cc5d9eea585",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/04. 2024-10-31 - SFPL Venus - tripo_pbr_model v2.0-20240919 v2.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": -5.99560401326471e-11,
+      "y": 0,
+      "z": -7.941135943267952e-11,
+      "w": 1
+    },
+    "pos": {
+      "x": 0.1512044370174408,
+      "y": 2.8573195934295654,
+      "z": 20.177350997924805
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "21e437b9-df08-4a58-8e82-155b9a8eceea",
+    "modelName": "21e437b9-df08-4a58-8e82-155b9a8eceea",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/05. 2024-10-31 - Danseuse by Canova - tripo_pbr_model v2.0-20240919 - v2.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 6.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "77848d6b-d256-462d-b116-b5c34eac930d",
+    "modelName": "77848d6b-d256-462d-b116-b5c34eac930d",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/06. fishing.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 7.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "7090a336-b653-4c91-be1b-96bf4819e980",
+    "modelName": "7090a336-b653-4c91-be1b-96bf4819e980",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/07. prometheus.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "pos": {
+      "x": 8.021106719970703,
+      "y": 1.1907072067260742,
+      "z": 7.154796123504639
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "1558f9f4-06ee-4e28-9d44-6240492d7354",
+    "modelName": "1558f9f4-06ee-4e28-9d44-6240492d7354",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/08. Femme Au Serpent.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 9.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "12bc6f2a-d260-4d1e-b64e-a97f989ff085",
+    "modelName": "12bc6f2a-d260-4d1e-b64e-a97f989ff085",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/09. Bacchante portant un satyre enfant sur lepaule droite, de Clodion - 1.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 10.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "d7ccafef-1730-4b6f-aa35-79969a69ba20",
+    "modelName": "d7ccafef-1730-4b6f-aa35-79969a69ba20",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/10. 2024-10-31 - Shepard Boy - tripo_pbr_model v2.0-20240919.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 11.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "cf3c9101-d5fd-4999-af8d-ee34de50062c",
+    "modelName": "cf3c9101-d5fd-4999-af8d-ee34de50062c",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/11. spring (right).glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 12.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "153173ea-7eaa-400d-a0c4-39e8bafefd07",
+    "modelName": "153173ea-7eaa-400d-a0c4-39e8bafefd07",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/12. summer.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 13.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "0ced9a63-768f-400a-8085-8a3891b22770",
+    "modelName": "0ced9a63-768f-400a-8085-8a3891b22770",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/13. 2024-10-31 - Flora from Hadrian's Villa, Palazzo Nuovo, Capitoline Museums, Rome - tripo_pbr_model v2.0-20240919.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 14.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "2e02e6c0-ed73-4617-b92f-98a3af729961",
+    "modelName": "2e02e6c0-ed73-4617-b92f-98a3af729961",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/14. winter - v2.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "pos": {
+      "x": 15.021106600761414,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "3e1cb94a-b2b0-41cd-b51d-fddb52caa697",
+    "modelName": "3e1cb94a-b2b0-41cd-b51d-fddb52caa697",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/15. Epos (substitute).glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "pos": {
+      "x": 15.957806587219238,
+      "y": 1.1907072067260742,
+      "z": 4
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "958cabaa-fab7-421c-94b7-044c06f625bd",
+    "modelName": "958cabaa-fab7-421c-94b7-044c06f625bd",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/originals/16. polyhymnia (back) at Statens Museum for Kunst.glb",
+    "type": "remoteurl",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": true,
+    "isVisible": true,
+    "rotQ": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "pos": {
+      "x": 17.796372413635254,
+      "y": 1.1913564205169678,
+      "z": 4.0002007484436035
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "5ca3d426-0ce4-43e0-9ba1-02a16a1219a5",
+    "type": "remoteurl",
+    "url": "https://relay.neurafile.com/assets/2024-12-07 - Sutro Baths/12_6_2024.glb",
+    "materialInfo": false,
+    "physicsInfo": {
+      "enabled": true,
+      "physicsType": "mesh",
+      "mass": 0
+    },
+    "hasGizmos": false,
+    "isVisible": true,
+    "modelName": "5ca3d426-0ce4-43e0-9ba1-02a16a1219a5",
+    "rotQ": {
+      "x": 0.0015018224631693645,
+      "y": 0.47942316601024954,
+      "z": 0.002749095790258662,
+      "w": 0.8775782661502398
+    },
+    "pos": {
+      "x": 8.005708559002814,
+      "y": 1.2847319208795145,
+      "z": 16.52716679324657
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+]
