@@ -270,10 +270,10 @@
     "hasGizmos": true,
     "isVisible": true,
     "rotQ": {
-      "x": null,
-      "y": null,
-      "z": null,
-      "w": null
+      "x": 0,
+      "y": 0,
+      "z": 0.24740395925452294,
+      "w": 0.9689124217106447
     },
     "pos": {
       "x": 7.021106719970703,
