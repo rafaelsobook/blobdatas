@@ -259,9 +259,9 @@
       "w": 0.5572031752476082
     },
     "pos": {
-      "x": -4.219083309173584,
-      "y": -0.07870116829872131,
-      "z": -4.949254035949707
+      "x": -5.707776069641113,
+      "y": -0.07870105654001236,
+      "z": -8.583614349365234
     },
     "scale": {
       "x": 0.7341782147673765,
@@ -296,6 +296,31 @@
     },
     "isVisible": false,
     "parentMeshId": "e0638010-c5b8-482c-b74f-cfa9b75dcf72",
+    "modelName": "gun",
+    "immersiveState": "browser"
+  },
+  {
+    "_id": "rty2421",
+    "type": "equipment",
+    "url": "./models/gun.glb",
+    "materialInfo": false,
+    "pos": {
+      "x": -0.02,
+      "y": -0.03,
+      "z": -0.08
+    },
+    "scale": {
+      "x": 0.11,
+      "y": 0.11,
+      "z": 0.11
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isVisible": true,
+    "parentMeshId": "87c44682-64de-431e-b36b-731312994529",
     "modelName": "gun",
     "immersiveState": "browser"
   }
