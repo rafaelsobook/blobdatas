@@ -40,7 +40,12 @@
     "modelName": "ground",
     "isVisible": true,
     "hasGizmos": false,
-    "parentMeshId": null
+    "parentMeshId": null,
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "_id": "box123",
@@ -85,6 +90,11 @@
       "y": 0.00586847120626619,
       "z": 0.2919166928989708,
       "w": 0.9562735068479981
+    },
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
     }
   },
   {
@@ -124,7 +134,12 @@
     "modelName": "cylinder",
     "isVisible": true,
     "hasGizmos": true,
-    "parentMeshId": null
+    "parentMeshId": null,
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "_id": "sword123",
@@ -160,7 +175,12 @@
     "modelName": "sword",
     "isVisible": true,
     "hasGizmos": true,
-    "parentMeshId": null
+    "parentMeshId": null,
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "_id": "cave123",
@@ -201,6 +221,11 @@
       "x": 0.006006615441084825,
       "y": -0.11035016184542236,
       "z": 0.1897467852381667
+    },
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
     }
   },
   {
@@ -237,7 +262,12 @@
     "modelName": "stair",
     "isVisible": true,
     "hasGizmos": true,
-    "parentMeshId": null
+    "parentMeshId": null,
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "_id": "44810aaf-ebc8-4801-a3e6-b6ff2b6ffbc3",
@@ -253,22 +283,27 @@
     "isVisible": true,
     "modelName": "44810aaf-ebc8-4801-a3e6-b6ff2b6ffbc3",
     "rotQ": {
-      "x": -2.624005694448974e-9,
-      "y": 0.9873032922448949,
-      "z": 1.7581517064340318e-8,
-      "w": -0.1588464954677671
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
     },
     "pos": {
-      "x": 1.874967336654663,
+      "x": -0.06580376625061035,
       "y": 1.5991002321243286,
-      "z": 0.028158320114016533
+      "z": 0.028158321976661682
     },
     "scale": {
-      "x": 0.7341782950285997,
-      "y": 0.7341789007186894,
-      "z": 0.7341782950286001
+      "x": 0.7341783046722412,
+      "y": 0.734178900718689,
+      "z": 0.7341783046722412
     },
     "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "euler": {
       "x": 0,
       "y": 0,
       "z": 0
@@ -297,7 +332,12 @@
     "isVisible": false,
     "parentMeshId": "e0638010-c5b8-482c-b74f-cfa9b75dcf72",
     "modelName": "gun",
-    "immersiveState": "browser"
+    "immersiveState": "browser",
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "_id": "rty2421",
@@ -322,6 +362,11 @@
     "isVisible": true,
     "parentMeshId": "87c44682-64de-431e-b36b-731312994529",
     "modelName": "gun",
-    "immersiveState": "browser"
+    "immersiveState": "browser",
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   }
 ]
