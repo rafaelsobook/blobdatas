@@ -106,9 +106,9 @@
     },
     "materialInfo": false,
     "pos": {
-      "x": 5.0475873947143555,
-      "y": 17.257017135620117,
-      "z": 13.408638954162598
+      "x": 5.4462761878967285,
+      "y": 1.4411052465438843,
+      "z": 16.094934463500977
     },
     "scale": {
       "x": 1.0000000279140577,
@@ -136,9 +136,9 @@
     "hasGizmos": true,
     "parentMeshId": null,
     "euler": {
-      "x": 0,
-      "y": 0,
-      "z": 0
+      "x": 0.16605511034352743,
+      "y": 3.06972040074473,
+      "z": 3.104783243768085
     }
   },
   {
@@ -363,6 +363,40 @@
     "parentMeshId": "87c44682-64de-431e-b36b-731312994529",
     "modelName": "gun",
     "immersiveState": "browser",
+    "euler": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  {
+    "_id": "asd123",
+    "type": "equipment",
+    "url": "./models/sword.glb",
+    "materialInfo": {
+      "diffuse": "./textures/sword/sword.jpg",
+      "normal": "./textures/sword/swordnormal.jpg",
+      "rough": "./textures/sword/swordrough.jpg"
+    },
+    "pos": {
+      "x": -0.02,
+      "y": -0.03,
+      "z": -0.08
+    },
+    "scale": {
+      "x": 0.11,
+      "y": 0.11,
+      "z": 0.11
+    },
+    "dir": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "isVisible": false,
+    "parentMeshId": "41f29ef7-be31-42e9-b3f0-3be127223494",
+    "modelName": "sword",
+    "immersiveState": "immersive-vr",
     "euler": {
       "x": 0,
       "y": 0,
